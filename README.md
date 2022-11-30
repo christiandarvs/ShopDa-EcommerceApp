@@ -1,4 +1,4 @@
-# day_six_study
+# ShopDa - An Ecommerce Application
 
 A new Flutter project.
 
